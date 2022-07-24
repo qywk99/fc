@@ -24,7 +24,7 @@ category: '概览'
 
 - **全生命周期管理**：组件拥有项目的创建、开发、调试、部署、运维全生命周期管理能力；
 - **安全发布**：通过其他形式对函数进行变更，组件可以感知并安全更新；
-- **快速集成**：借助于 Serverless Devs 的集成性和被集成性，可以与常见的 [CI/CD 平台工具](https://github.com/Serverless-Devs/Serverless-Devs/blob/master/docs/cicd.md) 等集成；
+- **快速集成**：借助于 Serverless Devs 的集成性和被集成性，可以与常见的 [CI/CD 平台工具](https://github.com/Serverless-Devs/Serverless-Devs/blob/master/docs/zh/cicd.md) 等集成；
 - **可观测性**：拥有完善的可观测性，在客户端可以通过[指标查询 metrics](command/metrics.md) 以及[日志查询 logs](command/logs.md) 等命令，进行业务的数据指标、执行日志等多重维度观测；
 - **多模调试**：提出了多模调试方案，可以同时满足开发态、运维态的不同调试需求；包括[本地运行](command/local.md)、[在线运行](command/invoke.md)、[端云联调](command/proxied.md)等功能；
 
